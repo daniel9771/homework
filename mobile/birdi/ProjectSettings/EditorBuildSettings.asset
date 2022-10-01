@@ -6,6 +6,18 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/birdy.unity
+    path: Assets/Scenes/birdy 4.unity
+    guid: f69a7ee75e5684a45ab9bd9adca60b5d
+  - enabled: 1
+    path: Assets/Scenes/birdy 1.unity
+    guid: 302df8a2b748ee349977bd9c9e7a7160
+  - enabled: 1
+    path: Assets/Scenes/birdy 2.unity
     guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/birdy 3.unity
+    guid: 38f15419d4b881f4fbe3001048867b1c
+  - enabled: 1
+    path: Assets/Scenes/birdy 5.unity
+    guid: c7de7b4bbb996d34fb2b6c4071a53164
   m_configObjects: {}
